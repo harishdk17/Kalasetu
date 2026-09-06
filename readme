@@ -1,0 +1,4 @@
+The marketplace consits of two main things.
+the telegram bot and the main api
+they both work simultaneosly 
+the telegram bot gets input from the artist and automatically uploads it to the marketplace
